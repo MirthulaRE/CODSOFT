@@ -1,4 +1,4 @@
-CODSOFT internship program task
+CODSOFT internship program tasks
 1. EMAIL TEMPLATE
 2. RESTAURANT MENU
 3. MOBILE APP SIGNUP PAGE 
